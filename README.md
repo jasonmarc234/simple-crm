@@ -10,7 +10,7 @@ A browser-based Customer Relationship Manager using localStorage. No backend req
 - ✅ **Client Management** - Add, edit, delete clients
 - ✅ **Amount Tracking** - Track deal values in AED
 - ✅ **Interaction Logs** - Record calls, emails, meetings, notes
-- ✅ **Lead Status** - New, Contacted, Uncontactable, Under Nego, Fully Paid, Pullout
+- ✅ **Lead Status** - New, Contacted, Qualified, Proposal Sent, Negotiating, Won, Lost
 - ✅ **Priority Levels** - High, Medium, Low
 - ✅ **Filtering & Search** - Filter by status, priority, search by name/email
 - ✅ **Sorting** - By date, name, or priority

@@ -206,22 +206,27 @@ body {
     color: #f57c00;
 }
 
-.status-uncontactable {
+.status-qualified {
     background: #f3e5f5;
     color: #7b1fa2;
 }
 
-.status-undernego {
-    background: #fce4ec;
-    color: #c2185b;
+.status-proposal {
+    background: #e1f5fe;
+    color: #0277bd;
 }
 
-.status-fullypaid {
+.status-negotiation {
+    background: #fff9c4;
+    color: #f57f17;
+}
+
+.status-won {
     background: #e8f5e9;
     color: #388e3c;
 }
 
-.status-pullout {
+.status-lost {
     background: #ffebee;
     color: #d32f2f;
 }
